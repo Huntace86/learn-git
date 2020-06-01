@@ -5,4 +5,5 @@
 	echo "forth"
 	echo "fifth"
 	echo "fix-A"
+	echo "fix-B"
 ?>
