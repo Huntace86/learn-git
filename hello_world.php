@@ -4,5 +4,4 @@
 	echo "third"
 	echo "forth"
 	echo "fifth"
-	echo "fix-B"
 ?>
